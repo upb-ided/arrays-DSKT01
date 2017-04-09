@@ -1,0 +1,14 @@
+D:\Documents\GitHub\arrays\Arrays\bin\Debug\Arrays.dll
+D:\Documents\GitHub\arrays\Arrays\bin\Debug\Arrays.pdb
+D:\Documents\GitHub\arrays\Arrays\bin\Debug\nunit.framework.dll
+D:\Documents\GitHub\arrays\Arrays\bin\Debug\nunit.framework.xml
+D:\Documents\GitHub\arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\arrays\Arrays\obj\Debug\Arrays.dll
+D:\Documents\GitHub\arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\diego\Desktop\game desing\Taller\arrays-DSKT01-master\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\diego\Desktop\game desing\Taller\arrays-DSKT01-master\Arrays\obj\Debug\Arrays.dll
+C:\Users\diego\Desktop\game desing\Taller\arrays-DSKT01-master\Arrays\obj\Debug\Arrays.pdb
+C:\Users\diego\Desktop\game desing\Taller\arrays-DSKT01-master\Arrays\bin\Debug\Arrays.dll
+C:\Users\diego\Desktop\game desing\Taller\arrays-DSKT01-master\Arrays\bin\Debug\Arrays.pdb
+C:\Users\diego\Desktop\game desing\Taller\arrays-DSKT01-master\Arrays\bin\Debug\nunit.framework.dll
+C:\Users\diego\Desktop\game desing\Taller\arrays-DSKT01-master\Arrays\bin\Debug\nunit.framework.xml
